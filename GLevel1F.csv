@@ -1,0 +1,4 @@
+Day,# Healthy,# Symptoms,Diseased,Tot Symp,Strategy A,Strategy B,# TRT A,# TRT B,Available to TRT,Disease TRT A #,Disease TRT B #,Rand A,Rand B,TRT A Cures,TRT B Cures,Recover,total cured for day,Sum Disease Cured,Check,Catch Disease,Trt Cost,Sick Cost
+1,282,0,18,18,75,25,14,4,18,14,4,9.1,2,6,2,0,8,8,300,18,1560,1080
+2,264,0,28,28,75,25,21,7,28,21,7,13.65,3.5,15,2,0,17,25,300,26,2380,1680
+
